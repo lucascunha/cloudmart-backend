@@ -22,13 +22,13 @@ spec:
         - name: AWS_REGION
           value: "us-east-1"
         - name: BEDROCK_AGENT_ID
-          value: "xxxxxx"
+          value: "QUORFVSSNQ"
         - name: BEDROCK_AGENT_ALIAS_ID
-          value: "xxxx"
+          value: "KAHJMYBBWP"
         - name: OPENAI_API_KEY
-          value: "xxxxxx"
+          value: "XXXXXX"
         - name: OPENAI_ASSISTANT_ID
-          value: "xxxx"
+          value: "asst_Zw15ibGuUeX7gzByQSFJu80q"
 ---
 
 apiVersion: v1
